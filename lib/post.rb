@@ -7,4 +7,4 @@ class Post
     @title 
   end 
 end 
-Post.author = 
+Post.author = author 
