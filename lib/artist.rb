@@ -7,3 +7,4 @@ class Artist
   @name 
 end 
 end 
+end 
